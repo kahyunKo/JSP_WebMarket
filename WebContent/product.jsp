@@ -1,7 +1,6 @@
 <%@ page contentType="text/html; charset=utf-8"%>
 <%@ page import="dto.Product"%>
-
-<jsp:useBean id="productDAO" class="dao.ProductRepository" scope="session" />
+<%@ page import="dao.ProductRepository" %>
 
 <html>
 
@@ -21,7 +20,10 @@
 	
 	<%
 		String id = request.getParameter("id");
-		Product product = productDAO.getProductById(id);
+		/* ProductRepository 클래스의 객체 변수 instance를 호출하는 getInstance() 메소드 작성
+		이를 통해 getProductById() 메소드 호출, 반환 결과 값을 Product 객체 타입의 변수 product에 저장 */
+		ProductRepository dao = ProductRepository.getInstance();
+		Product product = dao.getProductById(id);
 	%>
 	
 	<div class="container">
