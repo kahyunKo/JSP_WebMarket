@@ -28,4 +28,41 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/WEB-INF/lib/commons-fileupload-1.4.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/commons-fileupload-1.4.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/lib/commons-io-2.8.0.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/commons-io-2.8.0.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/lib/cos.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/cos.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/resources/css/bootstrap.min.css</name>
+			<type>1</type>
+			<locationURI>PARENT-5-PROJECT_LOC/bootstrap-3.3.2/docs/dist/css/bootstrap.min.css</locationURI>
+		</link>
+		<link>
+			<name>WebContent/resources/images/P1234.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/P1234.png</locationURI>
+		</link>
+		<link>
+			<name>WebContent/resources/images/P1235.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/P1235.png</locationURI>
+		</link>
+		<link>
+			<name>WebContent/resources/images/P1236.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/P1236.png</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
