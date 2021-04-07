@@ -49,20 +49,5 @@
 			<type>1</type>
 			<locationURI>PARENT-5-PROJECT_LOC/bootstrap-3.3.2/docs/dist/css/bootstrap.min.css</locationURI>
 		</link>
-		<link>
-			<name>WebContent/resources/images/P1234.png</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/P1234.png</locationURI>
-		</link>
-		<link>
-			<name>WebContent/resources/images/P1235.png</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/P1235.png</locationURI>
-		</link>
-		<link>
-			<name>WebContent/resources/images/P1236.png</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/P1236.png</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>
